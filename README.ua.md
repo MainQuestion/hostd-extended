@@ -2,7 +2,7 @@
 
 **hostd extended** («розширений hostd»): неофіційна розширена збірка [hostd](https://github.com/SiaFoundation/hostd), програми хоста для мережі [Sia](https://sia.tech).
 
-[English](README.md) · [Русский](README.ru.md) · [Українська](README.uk.md)
+[English](README.md) · [Русский](README.ru.md) · [Українська]
 
 > **Статус: Alpha.** Перший випуск `v0.1.0-alpha.1` базується на hostd `v2.12.1`. Він працює на основних (mainnet) хостах автора, але **не є офіційним продуктом Sia Foundation** і не пов'язаний з нею. Перед встановленням зробіть резервну копію хоста. Використовуйте на власний ризик.
 
