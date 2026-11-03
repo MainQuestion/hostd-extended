@@ -1,6 +1,6 @@
 # hostd-extended v0.1.0-alpha.1
 
-[English](release_note.md) · [Русский](release_note.ru.md) · [Українська](release_note.uk.md)
+[English](release_note.en.md) · [Русский](release_note.ru.md) · [Українська](release_note.uk.md)
 
 **Перший Alpha-випуск.** Листопад 2026.
 
